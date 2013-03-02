@@ -1,0 +1,19 @@
+!! Verb inflection
+!! ---------------
+!! The TATAR language verbs inflect in persons.
+
+LEXICON V_
++V: V-01_ ;
+
+LEXICON V-01_ !! Persons
++V+Ind+Sg1:en   K   ;
+!+V+2sg:et   K   ;
+!+V+3sg:e    #   ;
+!+V+1pl:ien  #   ;
+!+V+2pl:iet  #   ;
+!+V+3pl:iet  #   ;
+!+V+inf:0    #   ;
+!#:0   N_   ;
+
+! vim: set ft=xfst-lexc:
+

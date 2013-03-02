@@ -1,0 +1,2477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="PRON">алай</l>
+         <stg>
+            <st Contlex="PRON_">алай</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">так; этак, эдак</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">алар</l>
+         <stg>
+            <st Contlex="PRON_">алар</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">они (аларның их, ихний; аларга им; аларны их; алардан от них; аларда у них)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">аларныкы</l>
+         <stg>
+            <st Contlex="PRON_">аларныкы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">их, ихний, принадлежащий им</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">андый</l>
+         <stg>
+            <st Contlex="PRON_">андый</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">такой</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">аны</l>
+         <stg>
+            <st Contlex="PRON_">аны</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">его</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">аныкы</l>
+         <stg>
+            <st Contlex="PRON_">аныкы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">его, её</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">аны-моны</l>
+         <stg>
+            <st Contlex="PRON_">аны-моны</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. то да сё; о том о сём 2. что-либо</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">анысы</l>
+         <stg>
+            <st Contlex="PRON_">анысы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. тот, та, то 2. это 3. конечно</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">анысы-монысы</l>
+         <stg>
+            <st Contlex="PRON_">анысы-монысы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">то да сё; разная мелочь</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">аның</l>
+         <stg>
+            <st Contlex="PRON_">аның</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. его, её 2. част то</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">аңа</l>
+         <stg>
+            <st Contlex="PRON_">аңа</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">ему, ей; у нему, к ней</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">аңарда</l>
+         <stg>
+            <st Contlex="PRON_">аңарда</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">у него</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">аңардан</l>
+         <stg>
+            <st Contlex="PRON_">аңардан</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">от него</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">әнә</l>
+         <stg>
+            <st Contlex="PRON_">әнә</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. вот, вон; вот тот, вон тот 2. при выражении удивления или негодования вот (ведь)!</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="PRON">бар</l>
+         <stg>
+            <st Contlex="PRON_">бар</st>
+         </stg>
+      </lg> II<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">весь</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="PRON">барсы</l>
+         <stg>
+            <st Contlex="PRON_">барсы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">все, все они</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">барча</l>
+         <stg>
+            <st Contlex="PRON_">барча</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">весь, вся, все, всё</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="PRON">бары</l>
+         <stg>
+            <st Contlex="PRON_">бары</st>
+         </stg>
+      </lg> I<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">[см] барсы</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="PRON">бәгъзе</l>
+         <stg>
+            <st Contlex="PRON_">бәгъзе</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">некоторый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">без</l>
+         <stg>
+            <st Contlex="PRON_">без</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">мы (безнең наш; безгә к нам, нам; безне нас; бездән от нас; бездә у нас)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">безнеке</l>
+         <stg>
+            <st Contlex="PRON_">безнеке</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">наш</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">берәрсе</l>
+         <stg>
+            <st Contlex="PRON_">берәрсе</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">кто-то, какой-нибудь (из них)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">беркем</l>
+         <stg>
+            <st Contlex="PRON_">беркем</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">никто</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">берни</l>
+         <stg>
+            <st Contlex="PRON_">берни</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">ничто; ничего</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">бернинди</l>
+         <stg>
+            <st Contlex="PRON_">бернинди</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">никакой</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">берничек</l>
+         <stg>
+            <st Contlex="PRON_">берничек</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">никак, никоим образом</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">бернәрсә</l>
+         <stg>
+            <st Contlex="PRON_">бернәрсә</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">ничто, ничего</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">берсе</l>
+         <stg>
+            <st Contlex="PRON_">берсе</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. один из них, одна из них, одно из них 2. кто-нибудь, кто-то; некто</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">берсе-бер</l>
+         <stg>
+            <st Contlex="PRON_">берсе-бер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">никто, ничто, ни один из них</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">бөтенесе</l>
+         <stg>
+            <st Contlex="PRON_">бөтенесе</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. все (из них), всё 2. [нар] итого, всего</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">бу</l>
+         <stg>
+            <st Contlex="PRON_">бу</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">этот, эта, это; данный; сей, сия, сиё</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="PRON">гайре</l>
+         <stg>
+            <st Contlex="PRON_">гайре</st>
+         </stg>
+      </lg> 1.<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">иной, другой, прочий 2. [посл] кроме, без</t>
+            </tg>
+         </mg>
+      </e>
+   <e><lg>
+         <l pos="PRON">җыен</l>
+         <stg>
+            <st Contlex="PRON_">җыен</st>
+         </stg>
+      </lg> II<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. всякий, всякого рода 2. весь</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="PRON">җыенысы</l>
+         <stg>
+            <st Contlex="PRON_">җыенысы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">все</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кай</l>
+         <stg>
+            <st Contlex="PRON_">кай</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. какой, который 2. некоторый, иной</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кайбер</l>
+         <stg>
+            <st Contlex="PRON_">кайбер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">некоторый, иной</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кайберәүләр</l>
+         <stg>
+            <st Contlex="PRON_">кайберәүләр</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">некоторые</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кайда</l>
+         <stg>
+            <st Contlex="PRON_">кайда</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. в разн зн где 2. в знач [част] где уж, где там</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кайдадыр</l>
+         <stg>
+            <st Contlex="PRON_">кайдадыр</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">где-то</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кайдан</l>
+         <stg>
+            <st Contlex="PRON_">кайдан</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">откуда</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кайдандыр</l>
+         <stg>
+            <st Contlex="PRON_">кайдандыр</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">откуда-то, откуда-нибудь</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кайсы</l>
+         <stg>
+            <st Contlex="PRON_">кайсы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. который, какой (из них) 2. некоторый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кайсыбер</l>
+         <stg>
+            <st Contlex="PRON_">кайсыбер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">[см] кайбер</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кайсыдыр</l>
+         <stg>
+            <st Contlex="PRON_">кайсыдыр</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">кто-то; какой-то человек</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кайчангы</l>
+         <stg>
+            <st Contlex="PRON_">кайчангы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">относящийся к какому-то времени, какого-то времени, который</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кайчандыр</l>
+         <stg>
+            <st Contlex="PRON_">кайчандыр</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">когда-то, некогда</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кая</l>
+         <stg>
+            <st Contlex="PRON_">кая</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. куда 2. где 3. в зн [част] где уж 4. в зн [межд] ну-ка, дай-ка</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">каядыр</l>
+         <stg>
+            <st Contlex="PRON_">каядыр</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. куда-то, куда-нибудь 2. где-то</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">каян</l>
+         <stg>
+            <st Contlex="PRON_">каян</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">откуда</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кем</l>
+         <stg>
+            <st Contlex="PRON_">кем</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">кто (кемнең кого, кемгә кому, кемне кого, кемнән от кого, кемдә у кого)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кемдер</l>
+         <stg>
+            <st Contlex="PRON_">кемдер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">кто-то; некто</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">кемнеке</l>
+         <stg>
+            <st Contlex="PRON_">кемнеке</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">чей</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="PRON">кемсә</l>
+         <stg>
+            <st Contlex="PRON_">кемсә</st>
+         </stg>
+      </lg> 1.<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">кто-то </t><t pos="N">2. [сущ] человек</t>
+            </tg>
+         </mg>
+      </e>
+   <e><lg>
+         <l pos="PRON">менә</l>
+         <stg>
+            <st Contlex="PRON_">менә</st>
+         </stg>
+      </lg> 1.<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">вот, вон 2. [межд] во, вот 3.[част] вот, уже, даже 4. [част] так, например, хотя бы 5.
+               [част] вот, вот; именно так</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="PRON">мин</l>
+         <stg>
+            <st Contlex="PRON_">мин</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">я (минем мой, моя, моё; мине меня; миңа мне, ко мне, на меня; миннән от меня; миндә у меня)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">минеке</l>
+         <stg>
+            <st Contlex="PRON_">минеке</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">мой</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">мондый</l>
+         <stg>
+            <st Contlex="PRON_">мондый</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">такой, подобный этому</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">моннан</l>
+         <stg>
+            <st Contlex="PRON_">моннан</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">отсюда, от этого места</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">моны</l>
+         <stg>
+            <st Contlex="PRON_">моны</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">это, этого</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">монысы</l>
+         <stg>
+            <st Contlex="PRON_">монысы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">этот</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">моңа</l>
+         <stg>
+            <st Contlex="PRON_">моңа</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">этому, к этому</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="PRON">нәрсә</l>
+         <stg>
+            <st Contlex="PRON_">нәрсә</st>
+         </stg>
+      </lg> I<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. что 2. в составе [союз] сл нәрсә ..., шул; нәрсәне ..., шуны ... что ..., то ...</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="PRON">нәрсәгә</l>
+         <stg>
+            <st Contlex="PRON_">нәрсәгә</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">для чего, к чему</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">нәрсәдер</l>
+         <stg>
+            <st Contlex="PRON_">нәрсәдер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">что-то, нечто</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">нәрсәдән</l>
+         <stg>
+            <st Contlex="PRON_">нәрсәдән</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">отчего, из-за чего, почему</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="PRON">ни</l>
+         <stg>
+            <st Contlex="PRON_">ни</st>
+         </stg>
+      </lg> I<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. что 2. какой</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="PRON">нигә</l>
+         <stg>
+            <st Contlex="PRON_">нигә</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. для чего, зачем, с какой целью 2. почему, с какой стати</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">нигәдер</l>
+         <stg>
+            <st Contlex="PRON_">нигәдер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">зачем-то, почему-то, что-то</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">нидән</l>
+         <stg>
+            <st Contlex="PRON_">нидән</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">отчего, почему</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">нидер</l>
+         <stg>
+            <st Contlex="PRON_">нидер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">нечто, что-то</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ник</l>
+         <stg>
+            <st Contlex="PRON_">ник</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. почему, зачем, отчего 2.[част] хоть, хотя бы</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">никадәр</l>
+         <stg>
+            <st Contlex="PRON_">никадәр</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. сколь, сколько 2. до чего, до такой степени 3. в составе [союз] сл сколько ..., столько ...;
+               чем ..., тем ...</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">никадәрле</l>
+         <stg>
+            <st Contlex="PRON_">никадәрле</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">[см] никадәр 1</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">никтер</l>
+         <stg>
+            <st Contlex="PRON_">никтер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">почему-то, зачем-то, отчего-то</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">нилектән</l>
+         <stg>
+            <st Contlex="PRON_">нилектән</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">почему, отчего</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">нинди</l>
+         <stg>
+            <st Contlex="PRON_">нинди</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. в разн зн какой, каков 2. что, что за 3. в составе [союз] сл нинди ..., шундый ... какой ...,
+               такой ...; каков ..., таков ...</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ниндидер</l>
+         <stg>
+            <st Contlex="PRON_">ниндидер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">какой-то</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ниндирәк</l>
+         <stg>
+            <st Contlex="PRON_">ниндирәк</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">каков, каков из себя</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ниткән</l>
+         <stg>
+            <st Contlex="PRON_">ниткән</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">что за</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ничә</l>
+         <stg>
+            <st Contlex="PRON_">ничә</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">сколько</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ничәләп</l>
+         <stg>
+            <st Contlex="PRON_">ничәләп</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. по сколько 2. примерно сколько</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ничәле</l>
+         <stg>
+            <st Contlex="PRON_">ничәле</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">какого номера (размера)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ничәнче</l>
+         <stg>
+            <st Contlex="PRON_">ничәнче</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">который, какой</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ничәсе</l>
+         <stg>
+            <st Contlex="PRON_">ничәсе</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">какое число</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ничәү</l>
+         <stg>
+            <st Contlex="PRON_">ничәү</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">сколько</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ничәшәр, ничәшәрләп</l>
+         <stg>
+            <st Contlex="PRON_">ничәшәр, ничәшәрләп</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">по сколько</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ничек</l>
+         <stg>
+            <st Contlex="PRON_">ничек</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. как, каким образом 2. как только</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">ничектер</l>
+         <stg>
+            <st Contlex="PRON_">ничектер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">как-то, какой-то</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">нишләп</l>
+         <stg>
+            <st Contlex="PRON_">нишләп</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">почему, что, чего (сидишь)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">сез</l>
+         <stg>
+            <st Contlex="PRON_">сез</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">вы (сезнең ваш; сезгә вам; сездән от вас; сезне вас; сездә у вас)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">сезнеке</l>
+         <stg>
+            <st Contlex="PRON_">сезнеке</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">ваш</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">син</l>
+         <stg>
+            <st Contlex="PRON_">син</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">ты (синең твой; синең белән с тобой; сиңа тебе; сине тебя; синнән от тебя; синдә у тебя)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">синеке</l>
+         <stg>
+            <st Contlex="PRON_">синеке</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">твой, твоя, твоё</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">теге</l>
+         <stg>
+            <st Contlex="PRON_">теге</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">тот, та, то</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">теге-бу</l>
+         <stg>
+            <st Contlex="PRON_">теге-бу</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">то да сё</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="PRON">тегеләй</l>
+         <stg>
+            <st Contlex="PRON_">тегеләй</st>
+         </stg>
+      </lg> 1.<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">так 2. [нар] иначе, по-другому</t>
+            </tg>
+         </mg>
+      </e>
+   <e><lg>
+         <l pos="PRON">тегеләй-болай</l>
+         <stg>
+            <st Contlex="PRON_">тегеләй-болай</st>
+         </stg>
+      </lg> 1.<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">как-нибудь 2. [нар] так и эдак</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="PRON">тегеләйгә</l>
+         <stg>
+            <st Contlex="PRON_">тегеләйгә</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">туда</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="PRON">тегенди</l>
+         <stg>
+            <st Contlex="PRON_">тегенди</st>
+         </stg>
+      </lg> 1.<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">такой 2. [пр] перен сомнительный, подозрительный 3. перен дурной, распутный</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="PRON">тегесе</l>
+         <stg>
+            <st Contlex="PRON_">тегесе</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">тот, тот из (них)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="PRON">ул</l>
+         <stg>
+            <st Contlex="PRON_">ул</st>
+         </stg>
+      </lg> II<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. он, она, оно (аның его; аңа ему, ей, к нему, к ней; аннан от него, от неё; анда у него, у неё) 2.
+               тот, та, то 3. это</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="PRON">ул-бу</l>
+         <stg>
+            <st Contlex="PRON_">ул-бу</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">что-либо, то да сё</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">үз</l>
+         <stg>
+            <st Contlex="PRON_">үз</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. свой, своя, своё // собственный 2. [пр] свой, родной, близкий</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">үзе</l>
+         <stg>
+            <st Contlex="PRON_">үзе</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. сам, сама, само 2. [нар] сам по себе</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">үзенеке</l>
+         <stg>
+            <st Contlex="PRON_">үзенеке</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">свой, собственный</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">фәлән</l>
+         <stg>
+            <st Contlex="PRON_">фәлән</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">такой-то; тот; некий</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һәммә</l>
+         <stg>
+            <st Contlex="PRON_">һәммә</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">весь; каждый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һәммәсе</l>
+         <stg>
+            <st Contlex="PRON_">һәммәсе</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">все (без исключения)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һәр</l>
+         <stg>
+            <st Contlex="PRON_">һәр</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. каждый, всякий 2. в сложн сл переводится компонентом еже-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һәрбер</l>
+         <stg>
+            <st Contlex="PRON_">һәрбер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">всякий, каждый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һәрбере, һәрберсе</l>
+         <stg>
+            <st Contlex="PRON_">һәрбере, һәрберсе</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">любой (каждый) из них</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һәркайсы</l>
+         <stg>
+            <st Contlex="PRON_">һәркайсы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. каждый, всякий 2. любой</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һәркем</l>
+         <stg>
+            <st Contlex="PRON_">һәркем</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. каждый, всякий 2. в сложн сл переводится компонентом обще-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һәрнәрсә</l>
+         <stg>
+            <st Contlex="PRON_">һәрнәрсә</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. каждая вещь 2. в сложн сл переводится компонетом всё-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һәртөрле</l>
+         <stg>
+            <st Contlex="PRON_">һәртөрле</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">всякий, всяческий, всевозможный; какой угодно</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һичбер</l>
+         <stg>
+            <st Contlex="PRON_">һичбер</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. никакой 2. [см] һич 1 3. [см] һичкайчан</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һичбере, һичберсе</l>
+         <stg>
+            <st Contlex="PRON_">һичбере, һичберсе</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">никто, ничто, ни один</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һичкайда</l>
+         <stg>
+            <st Contlex="PRON_">һичкайда</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">нигде</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һичкайдан</l>
+         <stg>
+            <st Contlex="PRON_">һичкайдан</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">ниоткуда</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һичкайсы</l>
+         <stg>
+            <st Contlex="PRON_">һичкайсы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">никто, ничто, ни один (из них)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һичкайчан</l>
+         <stg>
+            <st Contlex="PRON_">һичкайчан</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">никогда, ни разу, отроду</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һичкем</l>
+         <stg>
+            <st Contlex="PRON_">һичкем</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">никто</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һичнәрсә</l>
+         <stg>
+            <st Contlex="PRON_">һичнәрсә</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. ничто 2. ничего</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һични</l>
+         <stg>
+            <st Contlex="PRON_">һични</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">[см] һичнәрсә</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һичнинди</l>
+         <stg>
+            <st Contlex="PRON_">һичнинди</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">никакой</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">һичничек</l>
+         <stg>
+            <st Contlex="PRON_">һичничек</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">никак, никоим образом</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="PRON">шул</l>
+         <stg>
+            <st Contlex="PRON_">шул</st>
+         </stg>
+      </lg> 1.<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">тот, этот 2. мод сл да 3. в составе относит сл кем ..., шул кто ..., тот</t>
+            </tg>
+         </mg>
+      </e>
+   <e><lg>
+         <l pos="PRON">шулай</l>
+         <stg>
+            <st Contlex="PRON_">шулай</st>
+         </stg>
+      </lg> 1.<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">так 2. [нар] вот так 3. [нар] так, правильно 4. [вводн сл] итак 5. в составе относит сл
+               ничек ..., шулай как ..., так</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="PRON">шундый</l>
+         <stg>
+            <st Contlex="PRON_">шундый</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">такой, таковой, как тот, как этот; аналогичный</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">шунысы</l>
+         <stg>
+            <st Contlex="PRON_">шунысы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">1. этот, тот из них 2. то</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="PRON">шуңа</l>
+         <stg>
+            <st Contlex="PRON_">шуңа</st>
+         </stg>
+      </lg> 1.<pos>PRON</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">тому, к тому 2. [союз] потому, поэтому, оттого</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="PRON">шушы</l>
+         <stg>
+            <st Contlex="PRON_">шушы</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">этот, данный</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="PRON">шушындый</l>
+         <stg>
+            <st Contlex="PRON_">шушындый</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PRON">такой, этакий</t>
+            </tg>
+         </mg>
+      
+   </e>
+</r>

@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="POSTP">алдына</l>
+         <stg>
+            <st Contlex="POSTP">алдына</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">к; на; перед</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">алдыннан</l>
+         <stg>
+            <st Contlex="POSTP">алдыннан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">перед; от</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">алдында</l>
+         <stg>
+            <st Contlex="POSTP">алдында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">перед; около; при</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">арада</l>
+         <stg>
+            <st Contlex="POSTP">арада</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">пока; в то время как</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">арасына</l>
+         <stg>
+            <st Contlex="POSTP">арасына</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">между, в середину</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">арасында</l>
+         <stg>
+            <st Contlex="POSTP">арасында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">среди, между</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">арасыннан</l>
+         <stg>
+            <st Contlex="POSTP">арасыннан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">из, из среды кого-чего</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">аркада, аркасында</l>
+         <stg>
+            <st Contlex="POSTP">аркада, аркасында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">из-за, благодаря, вследствие; по причине</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="POSTP">аркылы</l>
+         <stg>
+            <st Contlex="POSTP">аркылы</st>
+         </stg>
+      </lg> II<pos>POSTP</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. через, поперёк, сквозь 2. посредством, при помощи, путём, сквозь</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="POSTP">арты</l>
+         <stg>
+            <st Contlex="POSTP">арты</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">за</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">артына</l>
+         <stg>
+            <st Contlex="POSTP">артына</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">за кого-что, за кем-чем</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="POSTP">артында</l>
+         <stg>
+            <st Contlex="POSTP">артында</st>
+         </stg>
+      </lg> II<pos>POSTP</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">за кем-чем, позади кого-чего</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="POSTP">артыннан</l>
+         <stg>
+            <st Contlex="POSTP">артыннан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. за кем-чем вслед, вдогонку 2. за кем, после кого-чего 3. из-за 4. через кого</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">аръягында</l>
+         <stg>
+            <st Contlex="POSTP">аръягында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">за</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">астына</l>
+         <stg>
+            <st Contlex="POSTP">астына</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">под (подо) что-кого; под кем-чем; под что</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">астында</l>
+         <stg>
+            <st Contlex="POSTP">астында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">под кем-чем</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">астыннан</l>
+         <stg>
+            <st Contlex="POSTP">астыннан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">из-под кого-чего</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">аша</l>
+         <stg>
+            <st Contlex="POSTP">аша</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. через, сквозь 2. при посредстве, через, по 3. в сочетании с [гл] пере-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">бәрабәренә</l>
+         <stg>
+            <st Contlex="POSTP">бәрабәренә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">ради, за; из-за</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">белән</l>
+         <stg>
+            <st Contlex="POSTP">белән</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. с (со), вместе с 2. на 3. переводится формой творительного падежа [сущ] </t><t pos="CC">4. [союз] и</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">бирле</l>
+         <stg>
+            <st Contlex="POSTP">бирле</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">с, со</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">буе</l>
+         <stg>
+            <st Contlex="POSTP">буе</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. по, вдоль, вдоль по 2. в течение</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">буена</l>
+         <stg>
+            <st Contlex="POSTP">буена</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">[см] буенча 1,2</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">буенча</l>
+         <stg>
+            <st Contlex="POSTP">буенча</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. по, вдоль, вдоль по 2. в течение, в продолжение, на протяжении 3. согласно, соответственно,
+               сообразно; по причине</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">буйлап</l>
+         <stg>
+            <st Contlex="POSTP">буйлап</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">[см] буенча 1,2</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">кадәр</l>
+         <stg>
+            <st Contlex="POSTP">кадәр</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. в разн зн до 2. с 3. вплоть до, даже и ... 4. сколько</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">кадәрге</l>
+         <stg>
+            <st Contlex="POSTP">кадәрге</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">в разн зн до</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">караганда</l>
+         <stg>
+            <st Contlex="POSTP">караганда</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. по сравнению, в сравнении, сравнительно 2. чем</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">карамагында</l>
+         <stg>
+            <st Contlex="POSTP">карамагында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">в ведении, на усмотрении, в распоряжении</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">карап</l>
+         <stg>
+            <st Contlex="POSTP">карап</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. по, в соответствии, соответственно 2. по направлению</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">карата</l>
+         <stg>
+            <st Contlex="POSTP">карата</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. по, к; по отношению в 2. в отношении, относительно, применительно 3. в соответствии, в зависимости
+               от ..., соответственно, по</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">каршы</l>
+         <stg>
+            <st Contlex="POSTP">каршы</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. к, на, в 2. напротив 3. против</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">каршында</l>
+         <stg>
+            <st Contlex="POSTP">каршында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">перед; на виду</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">каршындагы</l>
+         <stg>
+            <st Contlex="POSTP">каршындагы</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">при</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">каршысына</l>
+         <stg>
+            <st Contlex="POSTP">каршысына</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. перед 2. навстречу, напротив</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="POSTP">ката</l>
+         <stg>
+            <st Contlex="POSTP">ката</st>
+         </stg>
+      </lg> II<pos>POSTP</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">всю, напролёт</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="POSTP">катына</l>
+         <stg>
+            <st Contlex="POSTP">катына</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">к, на</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">катында</l>
+         <stg>
+            <st Contlex="POSTP">катында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">около, возле</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">катыннан</l>
+         <stg>
+            <st Contlex="POSTP">катыннан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">от, с</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">кебек</l>
+         <stg>
+            <st Contlex="POSTP">кебек</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">как, как будто, будто, словно, вроде; ровно</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">кеби</l>
+         <stg>
+            <st Contlex="POSTP">кеби</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">[см] кебек</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">көе</l>
+         <stg>
+            <st Contlex="POSTP">көе</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">[см] көенчә</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">көенчә</l>
+         <stg>
+            <st Contlex="POSTP">көенчә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">в ... виде</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">көенә</l>
+         <stg>
+            <st Contlex="POSTP">көенә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">[см] көенчә</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="POSTP">күк</l>
+         <stg>
+            <st Contlex="POSTP">күк</st>
+         </stg>
+      </lg> III<pos>POSTP</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">[см] кебек</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="POSTP">күрә</l>
+         <stg>
+            <st Contlex="POSTP">күрә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. по, смотря, сообразно 2. ввиду, вследствие, из-за того</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">кырында</l>
+         <stg>
+            <st Contlex="POSTP">кырында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">около, возле</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">нәтиҗәсендә</l>
+         <stg>
+            <st Contlex="POSTP">нәтиҗәсендә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">вследствие, в результате</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">өстенә</l>
+         <stg>
+            <st Contlex="POSTP">өстенә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">на</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">өстендә</l>
+         <stg>
+            <st Contlex="POSTP">өстендә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. над 2. на</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">өстеннән</l>
+         <stg>
+            <st Contlex="POSTP">өстеннән</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. над, поверх 2. с</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">өчен</l>
+         <stg>
+            <st Contlex="POSTP">өчен</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1.для, чтобы, за, ради 2. из-за, по причине</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">рәвешчә</l>
+         <stg>
+            <st Contlex="POSTP">рәвешчә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">как, таким образом</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">саен</l>
+         <stg>
+            <st Contlex="POSTP">саен</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. каждый, еже-, каждо- 2. каждый раз, когда ... 3. чем больше ..., тем</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">соң</l>
+         <stg>
+            <st Contlex="POSTP">соң</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">спустя; после; после того, как</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">соңында</l>
+         <stg>
+            <st Contlex="POSTP">соңында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">в конце, под конец; после того, как</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">сыйфатында</l>
+         <stg>
+            <st Contlex="POSTP">сыйфатында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">в качестве</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">сымак, сыман</l>
+         <stg>
+            <st Contlex="POSTP">сымак, сыман</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. подобно, как 2. в сочетании с существительными соответствует –подобный, -видный, -образный
+               3.[част] будто бы, как будто бы</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="POSTP">таба</l>
+         <stg>
+            <st Contlex="POSTP">таба</st>
+         </stg>
+      </lg> II<pos>POSTP</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. к ..., по направлению к ... 2. к (во времени) 3. образует наречия: алга таба вперёд; түбән таба
+               вниз</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="POSTP">табан</l>
+         <stg>
+            <st Contlex="POSTP">табан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">[см] таба II</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="POSTP">тапкыр</l>
+         <stg>
+            <st Contlex="POSTP">тапкыр</st>
+         </stg>
+      </lg> II<pos>POSTP</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">раз</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="POSTP">тарафыннан</l>
+         <stg>
+            <st Contlex="POSTP">тарафыннан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">со стороны кого-л; им, ей, ими</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="POSTP">тикле, тиклем</l>
+         <stg>
+            <st Contlex="POSTP">тикле, тиклем</st>
+         </stg>
+      </lg> 1.<pos>POSTP</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">до 2.[част] даже</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="POSTP">тиңеннән, тиңеите(н)</l>
+         <stg>
+            <st Contlex="POSTP">тиңеннән, тиңеите(н)</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">по, до</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">тирәсендә</l>
+         <stg>
+            <st Contlex="POSTP">тирәсендә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. около, возле 2. вокруг</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">тирәсеннән</l>
+         <stg>
+            <st Contlex="POSTP">тирәсеннән</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">мимо, близ</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="POSTP">төсле</l>
+         <stg>
+            <st Contlex="POSTP">төсле</st>
+         </stg>
+      </lg> II<pos>POSTP</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">похоже, вроде, подобно, подобно как</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="POSTP">турыда</l>
+         <stg>
+            <st Contlex="POSTP">турыда</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">о; об; обо; про</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">турында, турындагы</l>
+         <stg>
+            <st Contlex="POSTP">турында, турындагы</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">о, об, обо, про</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">турысында</l>
+         <stg>
+            <st Contlex="POSTP">турысында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. о, об, обо, про 2. напротив</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">тыш</l>
+         <stg>
+            <st Contlex="POSTP">тыш</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. сверх, кроме 2. вне; сверх 3. в сложн сл переводится приставками вне-, сверх-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">уңайда</l>
+         <stg>
+            <st Contlex="POSTP">уңайда</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">в пору, во время</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">уртасында</l>
+         <stg>
+            <st Contlex="POSTP">уртасында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">в середине, в центре, посреди</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">урынына</l>
+         <stg>
+            <st Contlex="POSTP">урынына</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. вместо, взамен 2. как, словно</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">үткәч</l>
+         <stg>
+            <st Contlex="POSTP">үткәч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">спустя</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">хакта</l>
+         <stg>
+            <st Contlex="POSTP">хакта</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">о, об, обо</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">хакына</l>
+         <stg>
+            <st Contlex="POSTP">хакына</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">ради, для, во имя</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">хакында</l>
+         <stg>
+            <st Contlex="POSTP">хакында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">о, об, обо</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">хәлдә</l>
+         <stg>
+            <st Contlex="POSTP">хәлдә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">в виде</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">хәтле</l>
+         <stg>
+            <st Contlex="POSTP">хәтле</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. до, по 2. с 3.[част] так 4. [част] даже</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">чагында</l>
+         <stg>
+            <st Contlex="POSTP">чагында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">когда, в бытность</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">чаклы</l>
+         <stg>
+            <st Contlex="POSTP">чаклы</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. до, по 2. с, величиной с</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">чакта</l>
+         <stg>
+            <st Contlex="POSTP">чакта</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">при, когда</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">чамасы</l>
+         <stg>
+            <st Contlex="POSTP">чамасы</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">около, приблизительно</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">чамасында</l>
+         <stg>
+            <st Contlex="POSTP">чамасында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">около, приблизительно</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">шикелле</l>
+         <stg>
+            <st Contlex="POSTP">шикелле</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">1. как, подобно 2. кажется, вроде</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">эчендә</l>
+         <stg>
+            <st Contlex="POSTP">эчендә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">в течение, за</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">югында</l>
+         <stg>
+            <st Contlex="POSTP">югында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">когда нет, в отсутствие, без</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">янына</l>
+         <stg>
+            <st Contlex="POSTP">янына</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">к, ко, на</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">янында</l>
+         <stg>
+            <st Contlex="POSTP">янында</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">у, при, около, подле, возле, вблизи</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">яныннан</l>
+         <stg>
+            <st Contlex="POSTP">яныннан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">мимо, от</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="POSTP">ярдәмендә</l>
+         <stg>
+            <st Contlex="POSTP">ярдәмендә</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="PREP">при помощи, благодаря</t>
+            </tg>
+         </mg>
+      
+   </e>
+</r>

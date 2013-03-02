@@ -1,0 +1,66 @@
+!! ============================================= !
+!! The TATAR morphophonological/twolc rules file !
+!! ============================================= !
+!! This has been copied from ERZYA and it must be suited to TATAR
+
+
+Alphabet
+а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я  
+А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
+!! letters are still missing
+ү ә ң ө һ җ
+Ү Ә Ң Ө Һ Җ
+
+
+SLoss:0 !! is there such a thing
+
+%- !Hyphen with constructions 
+%>
+# 
+;
+
+
+Sets
+
+Vows = а о у ы э я ё ю и е ;
+verbStemVows = а о э я ё е ;
+verbStemVowStrong = а о э я ё е ;
+noGlideVow = а о у ы э ;
+glideVow = я ё ю и е ;
+
+
+Cns = б в г д ж з й к л м н п р с т ф х ц ч ш щ ;
+NPC = б в г д ж з к л м н п р с т ф х ц ч ш щ ; ! Nonpalatal Consonants
+CnsVoiced = б в г д ж з й л м н р ;
+CnsVoicedDent = д з л н р ;
+CnsVoicedNonDent = б в г ж й м ;
+CnsVoiceless = к п с т ф х ц ч ш щ ;
+CnsVoicelessDent = с т ц ;
+CnsVoicelessNonDent = к п ф х ч ш щ ;
+CnsNonDent = б в г ж к м п ф х ч ш щ ;
+CnsDent = д з л н р с т ц  ;
+CnsDentNoL = д з н р с т ц  ;
+
+Letters = Vows Cns ь ъ ;
+
+!Definitions
+
+
+Rules
+
+
+
+!!SLoss s s > s = s 0 0 s
+"s:0"
+с:0 <=> с _ %>: SLoss:0 с ;
+
+!€ класс%>SLossс
+!€ клас000с
+
+
+!Disallow
+
+"Disallow TLoss after non-t"
+SLoss:0 /<= [[ :* Letters ] - [ :* :т ] ] %>: _ ;
+
+

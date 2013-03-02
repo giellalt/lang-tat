@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="PRED">бар</l>
+         <stg>
+            <st Contlex="PRED_">бар</st>
+         </stg>
+      </lg>
+      
+      <pos>PREDICATION</pos>
+       
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">есть, имеется, существует, налицо</t>
+         </tg>
+      </mg>
+       
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">бәхил</l>
+         <stg>
+            <st Contlex="PRED_">бәхил</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">1. прощаю; не обижаюсь 2. согласен, разрешаю, благославляю</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">гыйбарәт</l>
+         <stg>
+            <st Contlex="PRED_">гыйбарәт</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">состоит, заключается, выражается</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">кирәк</l>
+         <stg>
+            <st Contlex="PRED_">кирәк</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">1. надо, нужно, необходимо, надобно // нужный, необходимый, надобный </t><t pos="N">2. [сущ]
+            необходимость, надобность 3. [сущ] необходимое, нужное </t><t pos="CONJ">4. [союз] хоть ..., хоть ... 5. [союз]
+            и ..., и ... 6. в составе условных форм [гл] и с [гл] булу переводится словами возможно, вероятно,
+            по-видимому</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">мә</l>
+         <stg>
+            <st Contlex="PRED_">мә</st>
+         </stg>
+      </lg>
+       1.
+      <pos>PREDICATION</pos>
+       
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">на! возьми! держи! 2. в зн [част] вот</t>
+         </tg>
+      </mg>
+       
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">мәҗбүр</l>
+         <stg>
+            <st Contlex="PRED_">мәҗбүр</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">1. обязан 2. вынужден, принуждён</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">риза</l>
+         <stg>
+            <st Contlex="PRED_">риза</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">1. довольный, доволен 2. согласный, согласен</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">сөйләшенгән</l>
+         <stg>
+            <st Contlex="PRED_">сөйләшенгән</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">договорено, имеется договорённость</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">такы-токы</l>
+         <stg>
+            <st Contlex="PRED_">такы-токы</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">туго, плоховато; едва-едва; мало</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">таман</l>
+         <stg>
+            <st Contlex="PRED_">таман</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">1. как раз, спору, точь-в-точь 2. не всё хватает (в голове)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">тәмам</l>
+         <stg>
+            <st Contlex="PRED_">тәмам</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">1. конец, окончено 2. [нар] окончательно, до конца 3. [нар] точно</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">тиеш</l>
+         <stg>
+            <st Contlex="PRED_">тиеш</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">1. положен, обязан // положенный, должный // положенное, должное 2. доводится, приходится</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">тукта</l>
+         <stg>
+            <st Contlex="PRED_">тукта</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">1. хватит, довольно 2. погоди, обожди 3. [вводн сл] погоди, дай подумать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">харап</l>
+         <stg>
+            <st Contlex="PRED_">харап</st>
+         </stg>
+      </lg>
+       1.
+      <pos>PREDICATION</pos>
+       
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">страх берёт, жуть 2. [нар] страшео, жутко, очень</t>
+         </tg>
+      </mg>
+       
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">хөрт(и)</l>
+         <stg>
+            <st Contlex="PRED_">хөрт(и)</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">плохой, неважный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">хуп</l>
+         <stg>
+            <st Contlex="PRED_">хуп</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">хорошо, ладно</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">шымытыр</l>
+         <stg>
+            <st Contlex="PRED_">шымытыр</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">кукиш с маслом</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">юк</l>
+         <stg>
+            <st Contlex="PRED_">юк</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">1. нет, не имеется, не существует, не водится 2. [вводн сл] нет </t><t pos="N">3. [сущ] ничто;
+            пустяк </t><t pos="PRED">4. [пр] отсутствующий 5. [пр] не существующий 6. [пр] пустяковый; ничтожный 7. в
+            сочетании с формой причастия на –ган образует отрицательную форму [гл] язган юк не писал</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">яме</l>
+         <stg>
+            <st Contlex="PRED_">яме</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">ладно? хорошо?</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">ярамый</l>
+         <stg>
+            <st Contlex="PRED_">ярамый</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">нельзя, воспрещается</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">ярар</l>
+         <stg>
+            <st Contlex="PRED_">ярар</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">ладно</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PRED">ярыйсы</l>
+         <stg>
+            <st Contlex="PRED_">ярыйсы</st>
+         </stg>
+      </lg>
+      <pos>PREDICATION</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="PRED">удовлетворительный // подходяще</t>
+         </tg>
+      </mg>
+   </e>
+</r>

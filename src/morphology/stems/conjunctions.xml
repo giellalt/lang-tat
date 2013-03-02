@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="CONJ">алай да</l>
+         <stg>
+            <st Contlex="CONJ_">алай да</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">всё же, однако, впрочем</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="CONJ">әгәр</l>
+         <stg>
+            <st Contlex="CONJ_">әгәр</st>
+         </stg>
+      </lg> 1.<pos>CONJ</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">если, а если 2.[част] вот</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="CONJ">әйтерсең(лә)</l>
+         <stg>
+            <st Contlex="CONJ_">әйтерсең(лә)</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">будто, будто бы, как будто</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">әле генә</l>
+         <stg>
+            <st Contlex="CONJ_">әле генә</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">только что, вот-вот</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">әллә</l>
+         <stg>
+            <st Contlex="CONJ_">әллә</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">то ли..., то ли...; не то..., не то...</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="CONJ">әмма</l>
+         <stg>
+            <st Contlex="CONJ_">әмма</st>
+         </stg>
+      </lg> 1.<pos>CONJ</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">но, однако, однако же, только 2.[част] очень, ну и</t>
+            </tg>
+         </mg>
+      </e>
+   <e><lg>
+         <l pos="CONJ">бәлки</l>
+         <stg>
+            <st Contlex="CONJ_">бәлки</st>
+         </stg>
+      </lg> 1.<pos>CONJ</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">но, но и, а 2. [вводн сл] возможно, авось, вероятно</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="CONJ">вә</l>
+         <stg>
+            <st Contlex="CONJ_">вә</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">и</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">гәрчә</l>
+         <stg>
+            <st Contlex="CONJ_">гәрчә</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">хоть, хотя</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">гүя, гүяки</l>
+         <stg>
+            <st Contlex="CONJ_">гүя, гүяки</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">как будто, будто бы, якобы, словно, точно</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="CONJ">да</l>
+         <stg>
+            <st Contlex="CONJ_">да</st>
+         </stg>
+      </lg> II<pos>CONJ</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">1. и, да, да и 2. но, да, однако 3. хоть, хотя, хотя бы и; если даже, пусть даже</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="CONJ">кашки</l>
+         <stg>
+            <st Contlex="CONJ_">кашки</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">если бы, хотя бы</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">ки</l>
+         <stg>
+            <st Contlex="CONJ_">ки</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">что, который, как</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">ләкин</l>
+         <stg>
+            <st Contlex="CONJ_">ләкин</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">но, однако, однако же</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">мәгәр</l>
+         <stg>
+            <st Contlex="CONJ_">мәгәр</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">но, лишь, однако, но только</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">сурәттә</l>
+         <stg>
+            <st Contlex="CONJ_">сурәттә</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">если; если только; в случае</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">тә част,</l>
+         <stg>
+            <st Contlex="CONJ_">тә част,</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">[см] та</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">тәкъдирдә</l>
+         <stg>
+            <st Contlex="CONJ_">тәкъдирдә</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">в случае, если</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="CONJ">тик</l>
+         <stg>
+            <st Contlex="CONJ_">тик</st>
+         </stg>
+      </lg> II<pos>CONJ</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">только, лишь; только бы, только лишь; но только</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="CONJ">хәлбуки</l>
+         <stg>
+            <st Contlex="CONJ_">хәлбуки</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">однако, между тем</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">һәм</l>
+         <stg>
+            <st Contlex="CONJ_">һәм</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">1. и, да, также 2. и ..., и</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">чөнки</l>
+         <stg>
+            <st Contlex="CONJ_">чөнки</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">потому что, ибо, так как</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">шунлыктан</l>
+         <stg>
+            <st Contlex="CONJ_">шунлыктан</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">поэтому, потому, оттого</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">югыйсә</l>
+         <stg>
+            <st Contlex="CONJ_">югыйсә</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">иначе, а то, в противном случае</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">юкса</l>
+         <stg>
+            <st Contlex="CONJ_">юкса</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">а то, в противном случае</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">я III (йә)</l>
+         <stg>
+            <st Contlex="CONJ_">я III (йә)</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">или, либо</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">ягъни</l>
+         <stg>
+            <st Contlex="CONJ_">ягъни</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">то есть</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">яисә</l>
+         <stg>
+            <st Contlex="CONJ_">яисә</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">в разн зн или; или же</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="CONJ">яки</l>
+         <stg>
+            <st Contlex="CONJ_">яки</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="CONJ">или, или же, либо</t>
+            </tg>
+         </mg>
+      
+   </e>
+</r>
