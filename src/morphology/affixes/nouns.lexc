@@ -1,0 +1,14 @@
+!! Noun inflection
+!! ---------------
+!! The TATAR language nouns inflect in cases.
+
+LEXICON N_
++N: NMN_ ;
+
+LEXICON NMN_
++TYÄ+Sg+Nom:     K   ;
+
+
+
+! vim: set ft=xfst-lexc:
+

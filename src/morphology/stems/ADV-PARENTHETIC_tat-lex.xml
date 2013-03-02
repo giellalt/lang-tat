@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="ADV">аерып алганда</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">аерып алганда</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">в частности</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">алайса</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">алайса</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">если так, в таком случае, тогда</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">анысы-анысы</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">анысы-анысы</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">1. так-то оно так, но ... 2. да, между прочим</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">асылда</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">асылда</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">в сущности, по существу, в действительности, на самом деле</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">ахры, ахрысы</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">ахры, ахрысы</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">вероятно, должно быть, наверное, по-видимому, пожалуй</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">әйтик</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">әйтик</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">скажем, допустим, положим, предположим</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">бәлкем</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">бәлкем</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">[см] бәлки 2</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">бәс</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">бәс</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">поэтому; следовательно, значит, стало быть</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">гадәттә</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">гадәттә</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">обычно, обыкновенно, как правило</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">гомумән</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">гомумән</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">вообще, в общем, в целом</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">ди (диләр)</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">ди (диләр)</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">говорит (говорят), мол</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">димәк</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">димәк</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">следовательно, значит, таким образом</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">дүртенчедән</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">дүртенчедән</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">в-четвёртых</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">җитмәсә</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">җитмәсә</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">к тому же; вдобавок</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">зинһар</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">зинһар</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">пожалуйста</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">икенчедән</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">икенчедән</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">во-вторых</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">имештер</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">имештер</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">якобы, будто бы, мол, дескать</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">ихластыр</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">ихластыр</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">правда, впрямь, серьёзно</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">күрәсең</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">күрәсең</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">видно, видимо, очевидно, наверное</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">күренгәнчә</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">күренгәнчә</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">как видно, как следует из вышесказанного</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">кыскасы</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">кыскасы</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">короче говоря, словом, одним словом</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">мәсәлән</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">мәсәлән</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">например</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">мөгаен</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">мөгаен</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">наверно, наверное; очевидно</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">нәтиҗәдә</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">нәтиҗәдә</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">в результате, в итоге, в конечном счёте</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">нигездә</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">нигездә</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">в основном</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">ниһаять</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">ниһаять</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">наконец, в конце концов</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">өченчедән, өченчеләй</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">өченчедән, өченчеләй</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">в-третьих</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">төбендә</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">төбендә</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">1. в основном 2. в действительности</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">төптә</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">төптә</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">1. в основном, в корне 2. в действительности, по сути</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">уенсыз нар,</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">уенсыз нар,</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">кроме шуток</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">фаразан</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">фаразан</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">например, предположим, допустим</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">хәер</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">хәер</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">впрочем</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">һәрхәлдә</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">һәрхәлдә</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">во всяком случае, так или иначе</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">шаять</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">шаять</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">наверно, вероятно, авось</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="ADV">янәсе</l>
+         <stg>
+            <st Contlex="ADV-PARENTHETIC_">янәсе</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="ADV">якобы, дескать</t>
+            </tg>
+         </mg>
+      
+   </e>
+</r>

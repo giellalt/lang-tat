@@ -1,0 +1,11 @@
+!! Adjective inflection
+!! --------------------
+!! The TATAR language adjectives compare.
+
+LEXICON A_
++A+Pos:0        NMN_   ;
++A+Comp:er       NMN_   ;
++A+Sup:est      NMN_   ;
+
+! vim: set ft=xfst-lexc:
+

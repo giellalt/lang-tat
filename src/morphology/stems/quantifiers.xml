@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="QNT">алтау</l>
+         <stg>
+            <st Contlex="QNT_">алтау</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">шестеро; вшестером</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">алтмыш</l>
+         <stg>
+            <st Contlex="QNT_">алтмыш</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">шестьдесят</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">алтмышар</l>
+         <stg>
+            <st Contlex="QNT_">алтмышар</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">по шестидесяти</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">алтмышлап</l>
+         <stg>
+            <st Contlex="QNT_">алтмышлап</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">около (до) шестидесяти</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">алмышынчы</l>
+         <stg>
+            <st Contlex="QNT_">алмышынчы</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">шестидесятый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">алты</l>
+         <stg>
+            <st Contlex="QNT_">алты</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">шесть</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">алтынчы</l>
+         <stg>
+            <st Contlex="QNT_">алтынчы</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">шестой</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">алтышар, алтышарлап</l>
+         <stg>
+            <st Contlex="QNT_">алтышар, алтышарлап</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">по шести</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">бер</l>
+         <stg>
+            <st Contlex="QNT_">бер</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. один, одно, одна 2. раз, один раз 3. [мест] некий, некоторый, какой-то 4. в слож с переводится
+               компоентом одно-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="QNT">берәр</l>
+         <stg>
+            <st Contlex="QNT_">берәр</st>
+         </stg>
+      </lg> 1.<pos>NUM</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">по одному 2. [пр] какой-нибудь</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="QNT">берәү</l>
+         <stg>
+            <st Contlex="QNT_">берәү</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. [см] бер 1 2. [мест] кто-то, некий, некто</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">беренче</l>
+         <stg>
+            <st Contlex="QNT_">беренче</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. первый 2. [пр] самый лучший, высокого качества, первоклассный</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">биш</l>
+         <stg>
+            <st Contlex="QNT_">биш</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. пять 2. рука 3. пятёрка 4. в сложных сл переводится компонентом пяти-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">бишәү</l>
+         <stg>
+            <st Contlex="QNT_">бишәү</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">пятеро</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">бишенче</l>
+         <stg>
+            <st Contlex="QNT_">бишенче</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">пятый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">дистәләгән</l>
+         <stg>
+            <st Contlex="QNT_">дистәләгән</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">около десятка, больше десятка</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">дистәләп</l>
+         <stg>
+            <st Contlex="QNT_">дистәләп</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. около десятка 2. десятками, по десятку</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">дистәләрчә</l>
+         <stg>
+            <st Contlex="QNT_">дистәләрчә</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">около десятка; несколько десятков</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">дүрт</l>
+         <stg>
+            <st Contlex="QNT_">дүрт</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. четыре 2. в сложн сл переводится компонентами четырёх-, -четверо</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">дүртәр</l>
+         <stg>
+            <st Contlex="QNT_">дүртәр</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">по четыре</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">дүртәү</l>
+         <stg>
+            <st Contlex="QNT_">дүртәү</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">четверо</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">егерме</l>
+         <stg>
+            <st Contlex="QNT_">егерме</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. двадцать 2. в сложн сл переводится компонентом двадцати-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">егермешәр</l>
+         <stg>
+            <st Contlex="QNT_">егермешәр</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">по двадцать, по двадцати</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">җидәү</l>
+         <stg>
+            <st Contlex="QNT_">җидәү</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">семеро</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">җидәүләп, җидешәүләп</l>
+         <stg>
+            <st Contlex="QNT_">җидәүләп, җидешәүләп</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">всемером</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">җиде</l>
+         <stg>
+            <st Contlex="QNT_">җиде</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. семь 2. [нар] перен много, несколько раз 3. в сложн сл переводится компонентом семи-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">җиденче</l>
+         <stg>
+            <st Contlex="QNT_">җиденче</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. седьмой 2. в сложн сл переводится компонентом семи-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">җитмеш</l>
+         <stg>
+            <st Contlex="QNT_">җитмеш</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">семьдесят</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">җитмешенче</l>
+         <stg>
+            <st Contlex="QNT_">җитмешенче</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">семидесятый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">икәү</l>
+         <stg>
+            <st Contlex="QNT_">икәү</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">двое, два; оба</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">ике</l>
+         <stg>
+            <st Contlex="QNT_">ике</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. два, две, двое 2. в сложн сл переводится компонентом дву-, двух-, двое- 3. [сущ] двойка
+               (оценка)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">икенче</l>
+         <stg>
+            <st Contlex="QNT_">икенче</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. второй 2. [пр] следующий 3. [пр] другой, иной 4. [нар] другой раз, ещё, больше 5.
+               [вводн сл] во-вторых 6. [сущ] второе (блюдо)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">икешәр</l>
+         <stg>
+            <st Contlex="QNT_">икешәр</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">по два; на два</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">ике-өч</l>
+         <stg>
+            <st Contlex="QNT_">ике-өч</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">два-три</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">илле</l>
+         <stg>
+            <st Contlex="QNT_">илле</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. пятьдесят 2. в сложн сл переводится компонентом пятидесяти-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">илленче</l>
+         <stg>
+            <st Contlex="QNT_">илленче</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">пятидесятый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">иллешәр, иллешәрләп</l>
+         <stg>
+            <st Contlex="QNT_">иллешәр, иллешәрләп</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">по пятьдесят, по пятидесяти</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">йөзәр</l>
+         <stg>
+            <st Contlex="QNT_">йөзәр</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">по сто</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">йөзәрләгән</l>
+         <stg>
+            <st Contlex="QNT_">йөзәрләгән</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">сотни, несколько сотен</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="QNT">йөзәрләп</l>
+         <stg>
+            <st Contlex="QNT_">йөзәрләп</st>
+         </stg>
+      </lg> 1.<pos>NUM</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">сотнями, по сотне, по сто 2. [нар] сотнями</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="QNT">йөзенче</l>
+         <stg>
+            <st Contlex="QNT_">йөзенче</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">сотый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">йөзләп</l>
+         <stg>
+            <st Contlex="QNT_">йөзләп</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">около (до) ста; примерно сто</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">йөзләрчә</l>
+         <stg>
+            <st Contlex="QNT_">йөзләрчә</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">сотни, несколько сотен</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">кырык</l>
+         <stg>
+            <st Contlex="QNT_">кырык</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">сорок // сороковой 2. в сложн сл переводится компонентом сорока- 3. перен много; много раз</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">мең</l>
+         <stg>
+            <st Contlex="QNT_">мең</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">тысяча</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">меңәр</l>
+         <stg>
+            <st Contlex="QNT_">меңәр</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">по тысяче</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">меңәрләп</l>
+         <stg>
+            <st Contlex="QNT_">меңәрләп</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">по тысяче, тысячами</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">меңенче</l>
+         <stg>
+            <st Contlex="QNT_">меңенче</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">тысячный</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">меңләгән</l>
+         <stg>
+            <st Contlex="QNT_">меңләгән</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">около тысячи, тысячи; несколько тысяч</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">меңләп</l>
+         <stg>
+            <st Contlex="QNT_">меңләп</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">около (до) тясычи</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">меңнәрчә</l>
+         <stg>
+            <st Contlex="QNT_">меңнәрчә</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">тысячи, несколько тысяч</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">өч</l>
+         <stg>
+            <st Contlex="QNT_">өч</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. три; тройка 2. тройка (отметка) 3. трое 4. в сложн сл переводится компонентами три-, тре-,
+               трёх-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="QNT">өчәү</l>
+         <stg>
+            <st Contlex="QNT_">өчәү</st>
+         </stg>
+      </lg> 1.<pos>NUM</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">трое 2. [нар] втроём</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="QNT">өченче</l>
+         <stg>
+            <st Contlex="QNT_">өченче</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. в разн зн третий 2. третичный 3. [сущ] третье (блюдо)</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e><lg>
+         <l pos="QNT">өчесе</l>
+         <stg>
+            <st Contlex="QNT_">өчесе</st>
+         </stg>
+      </lg> 1.<pos>NUM</pos>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">трое (из всех) 2. [сущ] этногр поминки по покойнику на третий день</t>
+            </tg>
+         </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="QNT">сигез</l>
+         <stg>
+            <st Contlex="QNT_">сигез</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. восемь 2. в сложн сл переводится компонентом восьми-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">сигезәү</l>
+         <stg>
+            <st Contlex="QNT_">сигезәү</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">восьмеро, ввосьмером</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">сигезенче</l>
+         <stg>
+            <st Contlex="QNT_">сигезенче</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">восьмой</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">сигезле</l>
+         <stg>
+            <st Contlex="QNT_">сигезле</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. восемь 2. восьмой // восьмёрка</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">сиксән</l>
+         <stg>
+            <st Contlex="QNT_">сиксән</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">восемьдесят</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">сиксәненче</l>
+         <stg>
+            <st Contlex="QNT_">сиксәненче</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">восьмидесятый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">төмән</l>
+         <stg>
+            <st Contlex="QNT_">төмән</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. десять тысяч 2. тьма</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">тугыз</l>
+         <stg>
+            <st Contlex="QNT_">тугыз</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. девять 2. в сложн сл переводится компонентом девяти- 4. [нар] несколько, много</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">тугызлы</l>
+         <stg>
+            <st Contlex="QNT_">тугызлы</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. девять 2. [сущ] девятка</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">тугызынчы</l>
+         <stg>
+            <st Contlex="QNT_">тугызынчы</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">девятый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">туксан</l>
+         <stg>
+            <st Contlex="QNT_">туксан</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">девяносто</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">туксанынчы</l>
+         <stg>
+            <st Contlex="QNT_">туксанынчы</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">девяностый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">ун</l>
+         <stg>
+            <st Contlex="QNT_">ун</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. десять 2. уны десятое (число) 3. в сложн сл переводится компонентом десяти-</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">унар</l>
+         <stg>
+            <st Contlex="QNT_">унар</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">по десять, по десяти</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">унау</l>
+         <stg>
+            <st Contlex="QNT_">унау</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">десятеро; десять</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">унлап</l>
+         <stg>
+            <st Contlex="QNT_">унлап</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">около десяти</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">унынчы</l>
+         <stg>
+            <st Contlex="QNT_">унынчы</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">десятый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">утыз</l>
+         <stg>
+            <st Contlex="QNT_">утыз</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">тридцать</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">утызлы</l>
+         <stg>
+            <st Contlex="QNT_">утызлы</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">тридцатый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">утызынчы</l>
+         <stg>
+            <st Contlex="QNT_">утызынчы</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">тридцатый</t>
+            </tg>
+         </mg>
+      
+   </e>
+   <e>
+      <lg>
+         <l pos="QNT">ярым</l>
+         <stg>
+            <st Contlex="QNT_">ярым</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg xml:lang="rus">
+               <t pos="QNT">1. половина 2. в сложных сл переводится компонентом полу-</t>
+            </tg>
+         </mg>
+      
+   </e>
+</r>
