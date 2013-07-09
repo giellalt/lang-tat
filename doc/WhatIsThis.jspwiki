@@ -1,0 +1,14 @@
+
+This is a test version of a grammatical analyser for Tatar.
+
+It is still in an initial state, and contains a couple of
+hundred words. People working on it ar Timo Rantakaulio and 
+Jack Rueter.
+
+
+-----
+
+The structure of the source file catalogue is the same for all
+the languages, it is documented [here|../../infra/infraremake/NewinfraCatalogues.html].
+
+
