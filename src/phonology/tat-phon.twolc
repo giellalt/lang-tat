@@ -1,6 +1,6 @@
-!! ============================================= !
-!! The TATAR morphophonological/twolc rules file !
-!! ============================================= !
+
+!! !!!The TATAR morphophonological/twolc rules file 
+
 !! This has been copied from ERZYA and it must be suited to TATAR
 
 
@@ -45,13 +45,14 @@ Letters = Vows Cns ь ъ ;
 
 !Definitions
 
+!! !!!Rules
 
 Rules
 
 
 
-!!SLoss s s > s = s 0 0 s
-"s:0"
+!SLoss s s > s = s 0 0 s
+"s:0" !! __@RULENAME@__  
 с:0 <=> с _ %>: SLoss:0 с ;
 
 !€ класс%>SLossс
@@ -60,7 +61,7 @@ Rules
 
 !Disallow
 
-"Disallow TLoss after non-t"
+"Disallow TLoss after non-t" !! __@RULENAME@__  
 SLoss:0 /<= [[ :* Letters ] - [ :* :т ] ] %>: _ ;
 
 
