@@ -1,0 +1,8 @@
+! Tatar LexC file for continuation lexicons defined by other POS's than N, A, V
+! and Prop.
+
+LEXICON INTERJ_
++Interj: # ;
+
+LEXICON POSTP
++Po: # ;
