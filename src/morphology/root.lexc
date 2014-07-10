@@ -16,7 +16,7 @@
 ! !!            !!!Tatar morphological analyser                      !
 ! ========================================================================== !
 !! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Tatar LANGUAGE.
- 
+
 
 Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
@@ -37,8 +37,8 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
 
 !! The Usage extents are marked using following tags:
- +Err/Sub   
- +Use/-Spell 
+ +Err/Sub
+ +Use/-Spell
 
 !! The nominals are inflected in the following Case and Number
  +Sg +Du +Pl
@@ -50,7 +50,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
  +Comp +Superl
 !! Numerals are classified under:
  +Attr +Card
- +Ord 
+ +Ord
 !! Verb moods are:
  +Ind +Prs +Prt +Pot +Cond +Imprt
 !! Verb personal forms are:
@@ -59,7 +59,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 
 ! Abbreviated words are classified with:
- +ABBR +ACR 
+ +ABBR +ACR
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT
 !! The verbs are syntactically split according to transitivity:
@@ -74,20 +74,20 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 
 !! Semantics are classified with
- +Mal +Fem +Sur 
- +Plc 
+ +Mal +Fem +Sur
+ +Plc
  +Org
  +Obj
  +Ani
  +Hum
  +Plant
  +Group
- +Time 
+ +Time
  +Txt
  +Route
- +Measr 
+ +Measr
  +Wthr
- +Build 
+ +Build
  +Edu
  +Veh
  +Clth
