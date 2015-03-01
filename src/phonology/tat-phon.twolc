@@ -5,63 +5,34 @@
 
 
 Alphabet
-а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я  
-А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
+а ә б в г д е ё ж җ з и й к л м н ң о ө п р с т у ү ф х һ ц ч ш щ ъ ы ь э ю я  
+А Ә Б В Г Д Е Ё Ж Җ З И Й К Л М Н Ң О Ө П Р С Т У Ү Ф Х Һ Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
 !! letters are still missing
-ү ә ң ө һ җ
-Ү Ә Ң Ө Һ Җ
 
-
-SLoss:0 !! is there such a thing
-
-%- !Hyphen with constructions 
-%>
-# 
-;
-
+ %>:0 ;
 
 Sets
 
-Vows = а о у ы э я ё ю и е ;
-verbStemVows = а о э я ё е ;
-verbStemVowStrong = а о э я ё е ;
-noGlideVow = а о у ы э ;
-glideVow = я ё ю и е ;
+Vow = а е ё и о ө у ү ы э ә ю я
+      А Е Ё И О Ө У Ү Ы Э Ә Ю Я ;
 
+Cns = б в г ғ д ҙ ж з й к ҡ л м н ң п р с ҫ т ф х һ ц ч ш щ
+      Б В Г Ғ Д Ҙ Ж З Й К Ҡ Л М Н Ң П Р С Ҫ Т Ф Х Һ Ц Ч Ш Щ ;
 
-Cns = б в г д ж з й к л м н п р с т ф х ц ч ш щ ;
-NPC = б в г д ж з к л м н п р с т ф х ц ч ш щ ; ! Nonpalatal Consonants
-CnsVoiced = б в г д ж з й л м н р ;
-CnsVoicedDent = д з л н р ;
-CnsVoicedNonDent = б в г ж й м ;
-CnsVoiceless = к п с т ф х ц ч ш щ ;
-CnsVoicelessDent = с т ц ;
-CnsVoicelessNonDent = к п ф х ч ш щ ;
-CnsNonDent = б в г ж к м п ф х ч ш щ ;
-CnsDent = д з л н р с т ц  ;
-CnsDentNoL = д з н р с т ц  ;
+Ltrs = Vow Cns  ъ ь Ъ Ь ;
 
-Letters = Vows Cns ь ъ ;
-
-!Definitions
-
-!! !!!Rules
+all =  Ltrs  %- ;
 
 Rules
 
+"Переход к:г, если аффикс начинается на гласную и перед к тоже гласная"
+ к:г <=> Vow _ %>: Vow ;
 
+!€# нитәк%>ерәк
+!€0 нитәг0ерәк
 
-!SLoss s s > s = s 0 0 s
-"s:0" !! __@RULENAME@__  
-с:0 <=> с _ %>: SLoss:0 с ;
-
-!€ класс%>SLossс
-!€ клас000с
-
-
-!Disallow
-
-"Disallow TLoss after non-t" !! __@RULENAME@__  
-SLoss:0 /<= [[ :* Letters ] - [ :* :т ] ] %>: _ ;
-
+"Переход п:б, если аффикс начинается на гласную и перед к тоже гласная"
+ п:б <=> Vow _ %>: Vow ;
+ 
+! Переход конечной согласной "п" в "б" при присоединении аффикса, начинающегося на гласную (китап: китабы, китабым, китаптар, китаптың ...). !
 
