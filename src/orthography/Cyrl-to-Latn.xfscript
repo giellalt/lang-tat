@@ -1,0 +1,168 @@
+
+! Script for Cyrillic to Latin for Tatar
+! Source: ISO-9 in
+! http://en.wikipedia.org/wiki/Tatar_alphabet
+
+define smalla а -> a ;
+define smallae ә -> ä ;
+define smallb б -> b ;
+define smallv в -> v ;
+define smallg г -> g ;
+define smalld д -> d ;
+define smallje е -> e ;
+define smalljo ё -> ë ;
+define smallzh ж -> ž ;
+define smallzhd җ -> ẓ̌ ;
+define smallz з -> z ;
+define smalli и -> i ;
+define smallj й -> j ;
+define smallk к -> k ;
+define smalll л -> l ;
+define smallm м -> m ;
+define smalln н -> n ;
+define smallnj ң -> ņ ;
+define smallo о -> o ;
+define smalloo ө -> ô ;
+define smallp п -> p ;
+define smallr р -> r ;
+define smalls с -> s ;
+define smallt т -> t ;
+define smallu у -> u ;
+define smalluu ү -> ù ;
+define smallf ф -> f ;
+define smallx х -> h ;
+define smallh һ -> ḩ ;
+define smallc ц -> c ;
+define smallch ч -> č ;
+define smallsh ш -> š ;
+define smallshj щ -> ŝ ;
+define smallhard ъ -> ” ;
+define smally  ы -> y ;
+define smallsoft ь -> ’ ;
+define smalle  э -> è ;
+define smallju ю -> û ;
+define smallja я -> â ;
+
+define capitala А -> A ;
+define capitalae Ә -> Ä ;
+define capitalb Б -> B ;
+define capitalv В -> V ;
+define capitalg Г -> G ;
+define capitald Д -> D ;
+define capitalje Е -> E ;
+define capitaljo Ё -> Ë ;
+define capitalzh Ж -> Ž ;
+define capitalzhd Җ -> Ẓ̌ ;
+define capitalz З -> Z ;
+define capitali И -> I ;
+define capitalj Й -> J ;
+define capitalk К -> K ;
+define capitall Л -> L ;
+define capitalm М -> M ;
+define capitaln Н -> N ;
+define capitalnj Ң -> Ņ ;
+define capitalo О -> O ;
+define capitaloo Ө -> Ô ;
+define capitalp П -> P ;
+define capitalr Р -> R ;
+define capitals С -> S ;
+define capitalt Т -> T ;
+define capitalu У -> U ;
+define capitaluu Ү -> Ù ;
+define capitalf Ф -> F ;
+define capitalx Х -> H ;
+define capitalh Һ -> Ḩ ;
+define capitalc Ц -> C ;
+define capitalch Ч -> Č ;
+define capitalsh Ш -> Š ;
+define capitalshj Щ -> Ŝ ;
+define capitalhard Ъ -> ” ;
+define capitaly Ы -> Y ;
+define capitalsoft Ь -> ’ ;
+define capitale Э -> È ;
+define capitalju Ю -> Û ;
+define capitalja Я -> Â ;
+
+
+
+
+ 
+read regex [ smalla
+.o. smallae
+.o. smallb
+.o. smallv
+.o. smallg
+.o. smalld
+.o. smallje
+.o. smalljo
+.o. smallzh
+.o. smallzhd
+.o. smallz
+.o. smalli
+.o. smallj
+.o. smallk
+.o. smalll
+.o. smallm
+.o. smalln
+.o. smallnj
+.o. smallo
+.o. smalloo
+.o. smallp
+.o. smallr
+.o. smalls
+.o. smallt
+.o. smallu
+.o. smalluu
+.o. smallf
+.o. smallx
+.o. smallh
+.o. smallc
+.o. smallch
+.o. smallsh
+.o. smallshj
+.o. smallhard
+.o. smally
+.o. smallsoft
+.o. smalle
+.o. smallju
+.o. smallja
+
+.o. capitala
+.o. capitalae
+.o. capitalb
+.o. capitalv
+.o. capitalg
+.o. capitald
+.o. capitalje
+.o. capitaljo
+.o. capitalzh
+.o. capitalzhd
+.o. capitalz
+.o. capitali
+.o. capitalj
+.o. capitalk
+.o. capitall
+.o. capitalm
+.o. capitaln
+.o. capitalnj
+.o. capitalo
+.o. capitaloo
+.o. capitalp
+.o. capitalr
+.o. capitals
+.o. capitalt
+.o. capitalu
+.o. capitaluu
+.o. capitalf
+.o. capitalx
+.o. capitalh
+.o. capitalc
+.o. capitalch
+.o. capitalsh
+.o. capitalshj
+.o. capitalhard
+.o. capitaly
+.o. capitalsoft
+.o. capitale
+.o. capitalju
+.o. capitalja ] ;
