@@ -9,6 +9,7 @@
 GT_ORTHOGRAPHIC_REGEX_SRCS=\
 		inituppercase.regex \
 		spellrelax.regex    \
+		spellrelax.Latn.regex    \
 		spellrelax-mobile-keyboard.regex
 
 GT_ORTHOGRAPHIC_XFSCRIPT_SRCS=\
