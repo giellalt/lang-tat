@@ -1,4 +1,3 @@
-
 ## Inclusions: this is the real alphabet definition:
 a
 ä
@@ -94,9 +93,9 @@ Y
 
 ## Transition pair specifications + weight:
 a	á	0.4
-a   ä   0.8
-e   ë   0.8
-z   ž   0.8
+a	ä	0.8
+e	ë	0.8
+z	ž	0.8
 
 ## Swaps:
 ## Change dh into hd with the weight 0.5:
