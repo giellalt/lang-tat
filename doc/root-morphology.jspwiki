@@ -2,13 +2,12 @@
            !!!Tatar morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Tatar LANGUAGE.
 
-
- !!!Multichar_Symbols definitions
+ !!!Definitions for Multichar_Symbols
 
 !!Analysis symbols
 ----------------
-The morphological analyses of wordforms of UNDEFINED language are presented
-in this system in terms of following symbols.
+The morphological analyses of wordforms for the Tatar
+language are presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
 Work to be done
