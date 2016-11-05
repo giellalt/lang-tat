@@ -3,29 +3,29 @@
 !! The TATAR language nouns inflect in cases.
 
 LEXICON N_
-+N: px ;
-+N: NMN_ ;
+ +N: px   ;
+ +N: NMN_ ;
 
 LEXICON N_АП
-+N+Nom: px ;
-+N+Pl:%>лар px ;
-+N+Acc:%>ны px ;
-+N+Gen:%>ның px ;
-+N+Loc:%>та px ;
-+N+Abl:%>тан px ;
-+N+Dir:%>ка px ;
+ +N+Nom:      px ;
+  +N+Pl:%>лар px ;
+ +N+Acc:%>ны  px ;
+ +N+Gen:%>ның px ;
+ +N+Loc:%>та  px ;
+ +N+Abl:%>тан px ;
+ +N+Dir:%>ка  px ;
 
 LEXICON px
- # ; ! without px
-+PxSg1:%>ым # ;
-+PxSg2:%>ың # ;
-+PxSg3:%>ы # ;
-+PxPl1:%>ыбыз # ;
-+PxPl2:%>ыгыз # ;
-+PxPl3:%>ы # ;
+               # ; ! without px
+ +PxSg1:%>ым   # ;
+ +PxSg2:%>ың   # ;
+ +PxSg3:%>ы    # ;
+ +PxPl1:%>ыбыз # ;
+ +PxPl2:%>ыгыз # ;
+ +PxPl3:%>ы    # ;
 
 LEXICON NMN_
-+TYÄ+Sg+Nom:     K   ;
+ +TYÄ+Sg+Nom: K ;
 
 ! vim: set ft=xfst-lexc:
 
