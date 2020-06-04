@@ -1,0 +1,9 @@
+name = "Tatar"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.tt"
+
+[windows]
+system_product_code = "A38E50C1-3C00-4B3E-8E5B-202DBC13A5E4"
+msoffice_product_code = "2E9F6AAD-163D-492B-93A8-CDE0A1E04712"
