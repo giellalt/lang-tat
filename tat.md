@@ -1,3 +1,61 @@
+Noun inflection
+The TATAR language nouns inflect in cases.
+
+
+
+
+
+
+Proper noun inflection
+The TATAR language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+Proper Noun Cases
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The TATAR language adjectives compare.
+
+
+
+Verb inflection
+The TATAR language verbs inflect in persons.
+
+
+Persons
+
+
+
+# The TATAR morphophonological/twolc rules file 
+
+This has been copied from ERZYA and it must be suited to TATAR
+
+
+letters are still missing
+
+
+
+
+
+
+
+
+
+
+*нитәк%>ерәк examples:*
+
+*нитәг0ерәк examples:*
+
+
+
 
 # Tatar morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Tatar LANGUAGE.
@@ -91,12 +149,6 @@ Clitic
 
 
 
-# The TATAR morphophonological/twolc rules file 
-
-This has been copied from ERZYA and it must be suited to TATAR
-
-
-letters are still missing
 
 
 
@@ -107,9 +159,62 @@ letters are still missing
 
 
 
-*нитәк%>ерәк examples:*
 
-*нитәг0ерәк examples:*
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Tatar are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
