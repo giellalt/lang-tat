@@ -447,3 +447,5 @@ Adv modifying a pronoun or noun
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-tat/blob/main/../src/cg3/disambiguator.cg3)</small>
