@@ -1149,47 +1149,7 @@ Clitic
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/root.lexc)</small>Proper noun inflection
-The TATAR language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-Proper Noun Cases
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/propernouns.lexc)</small>Noun inflection
-The TATAR language nouns inflect in cases.
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/nouns.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/symbols.lexc)</small>Adjective inflection
-The TATAR language adjectives compare.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/adjectives.lexc)</small>Verb inflection
-The TATAR language verbs inflect in persons.
-
-
-Persons
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/root.lexc)</small>
 # The TATAR morphophonological/twolc rules file 
 
 This has been copied from ERZYA and it must be suited to TATAR
@@ -1213,7 +1173,47 @@ letters are still missing
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/phonology.twolc)</small>Verb inflection
+The TATAR language verbs inflect in persons.
+
+
+Persons
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/verbs.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/symbols.lexc)</small>Proper noun inflection
+The TATAR language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+Proper Noun Cases
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/propernouns.lexc)</small>Adjective inflection
+The TATAR language adjectives compare.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/adjectives.lexc)</small>Noun inflection
+The TATAR language nouns inflect in cases.
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/nouns.lexc)</small>
 
 
 
