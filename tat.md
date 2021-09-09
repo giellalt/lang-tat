@@ -1,4 +1,454 @@
 
+S O U T H   S Á M I   D I S A M B I G U A T O R          
+
+
+
+
+# Delimiters 
+
+
+
+
+## Tags and sets 
+
+* BOS/EOS
+
+
+* Tags declared as single-membered LISTs 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Semantic tags
+
+Sem/Ani
+Sem/Fem
+Sem/Mal
+Sem/Obj
+Sem/Org
+Sem/Plc
+Sem/Sur
+Sem/Time
+Sem/Hum
+Sem/Date
+Sem/Year
+Sem/Group
+Sem/Route
+Sem/Build
+Sem/Place
+Sem/Food
+
+* Syntactic tags
+
+@CNP
+@CVP
+@+FAUXV
+@+FMAINV
+@-FAUXV
+@-FMAINV
+MAINV
+
+
+
+* More sets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Noun sets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Verb sets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* BOUNDARY SETS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Disambiguation #
+
+
+## @NO CODE@
+
+Rule for adding Sem/Date as a tag to readings which looks like dates
+
+
+## @NO CODE@
+
+## Cycle 0
+
+Removing non-lexicalised forms when lexicalised 
+
+
+
+
+
+
+
+Remove Num, ACR, ...
+
+
+
+
+
+
+
+Possessive suffix
+
+
+
+Short Pronouns
+
+
+Proper nouns
+
+
+
+Trivialia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Verbs
+
+
+
+
+
+
+
+Imperative
+
+
+
+## CC- and CS-Mapping
+
+
+
+## CNP mapping
+
+Mapping CNP to CC and CS.
+
+
+
+
+
+
+## CVP Mapping
+
+Mapping @CVP to all CS
+
+
+
+
+
+
+
+
+
+
+
+
+## PrfPrc
+
+Select PrfPrc if DerNomAct
+
+
+## Person
+
+leah Prs Sg2 = Pl3
+
+
+
+Select Inf If Infv
+
+
+
+
+
+
+
+## Span sentences
+
+
+
+### Nomen
+
+REmove Px if not family
+
+
+Remove Prop Attr if not 1 Prop 
+
+
+
+
+
+
+
+
+
+
+### Verb or Noun
+
+
+
+
+
+
+
+## CC and CS or Adv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Adj or Adv
+
+
+
+## Grammatisk ord eller N eller A
+
+
+
+
+
+
+
+
+
+## N or V
+
+
+
+
+
+
+
+
+
+Ger or Der/NomAct
+
+
+Adj or Indef
+
+
+Num
+
+
+
+
+Rel or Interr
+
+
+
+
+Po or Pr
+
+
+
+Adv or Po/Pr
+
+
+Illative or genetive
+
+
+
+Com
+
+
+
+Accusative or illative
+
+Indef or Adv
+
+special lemmas
+
+
+
+
+
+
+
+Adverb context prefers Adv
+
+
+Verb person vs. Inf -- moved here in order to have the pronouns disambiguated first.
+
+
+
+
+
+
+# Proper nouns
+
+Rule set taken from sme
+
+
+
+Substituting Prop tags 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+adverbs modifying another adverb
+Adv modifying a pronoun or noun
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-tat/blob/main/../src/cg3/disambiguator.cg3)</small>
 
 
 
@@ -607,448 +1057,31 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-tat/blob/main/../src/cg3/functions.cg3)</small>
-S O U T H   S Á M I   D I S A M B I G U A T O R          
+# The TATAR morphophonological/twolc rules file 
 
+This has been copied from ERZYA and it must be suited to TATAR
 
 
+letters are still missing
 
-# Delimiters 
 
 
 
 
-## Tags and sets 
 
-* BOS/EOS
 
 
-* Tags declared as single-membered LISTs 
 
 
+*нитәк%>ерәк examples:*
 
+*нитәг0ерәк examples:*
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Semantic tags
-
-Sem/Ani
-Sem/Fem
-Sem/Mal
-Sem/Obj
-Sem/Org
-Sem/Plc
-Sem/Sur
-Sem/Time
-Sem/Hum
-Sem/Date
-Sem/Year
-Sem/Group
-Sem/Route
-Sem/Build
-Sem/Place
-Sem/Food
-
-* Syntactic tags
-
-@CNP
-@CVP
-@+FAUXV
-@+FMAINV
-@-FAUXV
-@-FMAINV
-MAINV
-
-
-
-* More sets
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Noun sets
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Verb sets
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* BOUNDARY SETS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Disambiguation #
-
-
-## @NO CODE@
-
-Rule for adding Sem/Date as a tag to readings which looks like dates
-
-
-## @NO CODE@
-
-## Cycle 0
-
-Removing non-lexicalised forms when lexicalised 
-
-
-
-
-
-
-
-Remove Num, ACR, ...
-
-
-
-
-
-
-
-Possessive suffix
-
-
-
-Short Pronouns
-
-
-Proper nouns
-
-
-
-Trivialia
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbs
-
-
-
-
-
-
-
-Imperative
-
-
-
-## CC- and CS-Mapping
-
-
-
-## CNP mapping
-
-Mapping CNP to CC and CS.
-
-
-
-
-
-
-## CVP Mapping
-
-Mapping @CVP to all CS
-
-
-
-
-
-
-
-
-
-
-
-
-## PrfPrc
-
-Select PrfPrc if DerNomAct
-
-
-## Person
-
-leah Prs Sg2 = Pl3
-
-
-
-Select Inf If Infv
-
-
-
-
-
-
-
-## Span sentences
-
-
-
-### Nomen
-
-REmove Px if not family
-
-
-Remove Prop Attr if not 1 Prop 
-
-
-
-
-
-
-
-
-
-
-### Verb or Noun
-
-
-
-
-
-
-
-## CC and CS or Adv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Adj or Adv
-
-
-
-## Grammatisk ord eller N eller A
-
-
-
-
-
-
-
-
-
-## N or V
-
-
-
-
-
-
-
-
-
-Ger or Der/NomAct
-
-
-Adj or Indef
-
-
-Num
-
-
-
-
-Rel or Interr
-
-
-
-
-Po or Pr
-
-
-
-Adv or Po/Pr
-
-
-Illative or genetive
-
-
-
-Com
-
-
-
-Accusative or illative
-
-Indef or Adv
-
-special lemmas
-
-
-
-
-
-
-
-Adverb context prefers Adv
-
-
-Verb person vs. Inf -- moved here in order to have the pronouns disambiguated first.
-
-
-
-
-
-
-# Proper nouns
-
-Rule set taken from sme
-
-
-
-Substituting Prop tags 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-adverbs modifying another adverb
-Adv modifying a pronoun or noun
-
-
-
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/phonology.twolc)</small>Noun inflection
+The TATAR language nouns inflect in cases.
 
 
 
@@ -1056,7 +1089,38 @@ Adv modifying a pronoun or noun
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-tat/blob/main/../src/cg3/disambiguator.cg3)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/nouns.lexc)</small>Proper noun inflection
+The TATAR language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+Proper Noun Cases
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/propernouns.lexc)</small>Verb inflection
+The TATAR language verbs inflect in persons.
+
+
+Persons
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/verbs.lexc)</small>Adjective inflection
+The TATAR language adjectives compare.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/adjectives.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/symbols.lexc)</small>
 # Tatar morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Tatar LANGUAGE.
 
@@ -1150,70 +1214,6 @@ Clitic
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/root.lexc)</small>
-# The TATAR morphophonological/twolc rules file 
-
-This has been copied from ERZYA and it must be suited to TATAR
-
-
-letters are still missing
-
-
-
-
-
-
-
-
-
-
-*нитәк%>ерәк examples:*
-
-*нитәг0ерәк examples:*
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/phonology.twolc)</small>Verb inflection
-The TATAR language verbs inflect in persons.
-
-
-Persons
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/verbs.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/symbols.lexc)</small>Proper noun inflection
-The TATAR language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-Proper Noun Cases
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/propernouns.lexc)</small>Adjective inflection
-The TATAR language adjectives compare.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/adjectives.lexc)</small>Noun inflection
-The TATAR language nouns inflect in cases.
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-tat/blob/main/../src/fst/affixes/nouns.lexc)</small>
 
 
 
