@@ -8,10 +8,6 @@
 This page documents the work on the **Tatar language model**. It is still in an initial state, and contains appr. 13000 stems, and the core morphology. People working on it ar Timo Rantakaulio and 
 Jack Rueter.
 
-It is still in an initial state, and contains appr. 13000
-stems, and the core morphology. People working on it are Timo Rantakaulio and 
-Jack Rueter.
-
 # Project documentation
 
 * Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
