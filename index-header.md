@@ -5,10 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tat)](https://github.com/giellalt/lang-tat/issues)
 [![Build status](https://github.com/giellalt/lang-tat/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tat/actions)
 
-This page documents the work on the **Tatar language model**. 
-
-It is still in an initial state, and contains appr. 13000
-stems, and the core morphology. People working on it are Timo Rantakaulio and 
+This page documents the work on the **Tatar language model**. It is still in an initial state, and contains appr. 13000 stems, and the core morphology. People working on it ar Timo Rantakaulio and 
 Jack Rueter.
 
 # Project documentation
