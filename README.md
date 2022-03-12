@@ -2,7 +2,7 @@ The Tatar morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tat)](https://github.com/giellalt/lang-tat/issues)
-[![Build Status](https://github.com/giellalt/lang-tat/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tat/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-tat/main/badge.svg)](https://github.com/giellalt/lang-tat/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-tat)](https://github.com/giellalt/lang-tat/blob/main/LICENSE)
 
 This repository contains finite state source files for the Tatar language,
