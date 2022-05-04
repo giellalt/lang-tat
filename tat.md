@@ -372,9 +372,9 @@ This has been copied from ERZYA and it must be suited to TATAR
 
 letters are still missing
 
-*нитәк%>ерәк examples:*
+* нитәк%>ерәк examples:*
 
-*нитәг0ерәк examples:*
+* нитәг0ерәк examples:*
 
 * * *
 
