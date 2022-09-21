@@ -30,7 +30,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/tatdoc/index.html>
+- [Language specific documentation](https://giellalt.github.io/lang-tat/)
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
