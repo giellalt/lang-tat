@@ -1,6 +1,7 @@
 The Tatar morphology and tools
 ==========================================
 
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-tat%2Fgh-pages%2Flemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tat)](https://github.com/giellalt/lang-tat/issues)
 [![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-tat/main/badge.svg)](https://github.com/giellalt/lang-tat/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-tat)](https://github.com/giellalt/lang-tat/blob/main/LICENSE)
