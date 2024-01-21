@@ -81,7 +81,7 @@ Clitic
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-tat/blob/main/src/fst/root.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-tat/blob/main/src/fst/morphology/root.lexc)</small>
 
 ---
 
