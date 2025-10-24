@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-tat%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-tat)](https://github.com/giellalt/lang-tat/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tat)](https://github.com/giellalt/lang-tat/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-tat/main/badge.svg)](https://github.com/giellalt/lang-tat/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-tat?label=CI)](https://builds.giellalt.org/pipelines/lang-tat/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/tata1255)
 
 This page documents the work on the **Tatar language model**. It is still in an initial state, and contains appr. 13000 stems, and the core morphology. People working on it ar Timo Rantakaulio and 
 Jack Rueter.
