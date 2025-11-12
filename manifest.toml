@@ -1,6 +1,3 @@
-spellername = "Tatar"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,15 @@ legacy_product_codes = [
     { value = "A38E50C1-3C00-4B3E-8E5B-202DBC13A5E4", kind = "nsis" },
     { value = "2E9F6AAD-163D-492B-93A8-CDE0A1E04712", kind = "nsis" }
 ]
+
+[package.speller]
+name = "Tatar"
+version = "0.1.1"
+
+[package.grammar]
+name = "Tatar"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Tatar"
+version = "0.1.0"
